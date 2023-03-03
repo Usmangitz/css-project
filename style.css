@@ -1,0 +1,37 @@
+body{
+    background-image: url("background Image.jpg");
+    background-color: aliceblue;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+h2{
+    background-attachment: fixed;
+    background-color: rgb(152, 160, 235);
+    color: aliceblue;
+}
+.form{
+    background-color: bisque;
+    border: 1px solid black;
+    max-width: 1220px;
+    padding: 10px 20px 10px 20px;
+    justify-content: center;
+    float: left;
+    font-family: 'Crimson Text', serif;
+}
+
+
+content{
+    background-color: black red;
+    color:bisque
+   text-align: center;
+  
+}
+.input{
+    width: 100%;
+    padding: 5px 3px 5px 3px;
+}
